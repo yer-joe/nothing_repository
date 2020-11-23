@@ -1,0 +1,52 @@
+﻿@charset "UTF-8"; * {margin:0; padding:0; text-indent:0; }
+ h3 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; }
+ .s1 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 6.5pt; }
+ .s2 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; }
+ .s3 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 6.5pt; }
+ .s4 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; }
+ .s5 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; }
+ .s6 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 7pt; }
+ .s7 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 7pt; }
+ .s8 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; }
+ .p, p { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; margin:0pt; }
+ .s9 { color: #221F1F; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; }
+ .s10 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: -2pt; }
+ h4 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 7.5pt; }
+ .s11 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: 3pt; }
+ .s12 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 7pt; vertical-align: -4pt; }
+ .s13 { color: #FFF; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s14 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 7pt; vertical-align: -4pt; }
+ .s15 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 7pt; }
+ .s16 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: 1pt; }
+ .s17 { color: #221F1F; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; }
+ .s18 { color: #221F1F; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; }
+ .s19 { color: #221F1F; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: -1pt; }
+ .s20 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: -1pt; }
+ .s21 { color: #A7252C; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 15.5pt; }
+ h1 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 15.5pt; }
+ .s22 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 25pt; }
+ .s23 { color: #221F1F; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; }
+ .s24 { color: #221F1F; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 7.5pt; }
+ .s25 { color: #221F1F; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: 1pt; }
+ .s26 { color: #221F1F; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: 1pt; }
+ .s27 { color: #221F1F; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 25pt; }
+ .s28 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: -5pt; }
+ .s29 { color: #221F1F; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s30 { color: #221F1F; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: 1pt; }
+ .s31 { color: #221F1F; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; vertical-align: 1pt; }
+ .s32 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; vertical-align: 1pt; }
+ .s33 { color: #221F1F; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 26.5pt; }
+ .s34 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: -3pt; }
+ .s35 { color: #FFF; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; vertical-align: 4pt; }
+ .s36 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 7pt; }
+ .s37 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; }
+ .s38 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 26.5pt; }
+ .s39 { color: #221F1F; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: -3pt; }
+ .s40 { color: #221F1F; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: 1pt; }
+ .s41 { color: #221F1F; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: -1pt; }
+ .s42 { color: #221F1F; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 7.5pt; vertical-align: -1pt; }
+ .s43 { color: #221F1F; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; vertical-align: -1pt; }
+ h2 { color: #221F1F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
+ .s44 { color: #221F1F; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; }
+ .s45 { color: #FFF; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; vertical-align: 3pt; }
+ table, tbody {vertical-align: top; overflow: visible; }
